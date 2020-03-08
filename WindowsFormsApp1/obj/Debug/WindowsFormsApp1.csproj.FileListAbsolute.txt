@@ -1,0 +1,42 @@
+C:\Users\ozgur\OneDrive\Masaüstü\Apartman Yönetim Sistemi\Apartman Yonetim Sistemi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\ozgur\OneDrive\Masaüstü\Apartman Yönetim Sistemi\Apartman Yonetim Sistemi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ozgur\OneDrive\Masaüstü\Apartman Yönetim Sistemi\Apartman Yonetim Sistemi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ozgur\OneDrive\Masaüstü\Apartman Yönetim Sistemi\Apartman Yonetim Sistemi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.giris.resources
+C:\Users\ozgur\OneDrive\Masaüstü\Apartman Yönetim Sistemi\Apartman Yonetim Sistemi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.yonetici.resources
+C:\Users\ozgur\OneDrive\Masaüstü\Apartman Yönetim Sistemi\Apartman Yonetim Sistemi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.kullanici.resources
+C:\Users\ozgur\OneDrive\Masaüstü\Apartman Yönetim Sistemi\Apartman Yonetim Sistemi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.adminpanel.resources
+C:\Users\ozgur\OneDrive\Masaüstü\Apartman Yönetim Sistemi\Apartman Yonetim Sistemi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.kullanicipaneli.resources
+C:\Users\ozgur\OneDrive\Masaüstü\Apartman Yönetim Sistemi\Apartman Yonetim Sistemi\WindowsFormsApp1\bin\Debug\Apartman Yonetim Sistemi.exe.config
+C:\Users\ozgur\OneDrive\Masaüstü\Apartman Yönetim Sistemi\Apartman Yonetim Sistemi\WindowsFormsApp1\bin\Debug\Apartman Yonetim Sistemi.exe
+C:\Users\ozgur\OneDrive\Masaüstü\Apartman Yönetim Sistemi\Apartman Yonetim Sistemi\WindowsFormsApp1\bin\Debug\Apartman Yonetim Sistemi.pdb
+C:\Users\ozgur\OneDrive\Masaüstü\Apartman Yönetim Sistemi\Apartman Yonetim Sistemi\WindowsFormsApp1\obj\Debug\Apartman Yonetim Sistemi.exe
+C:\Users\ozgur\OneDrive\Masaüstü\Apartman Yönetim Sistemi\Apartman Yonetim Sistemi\WindowsFormsApp1\obj\Debug\Apartman Yonetim Sistemi.pdb
+C:\Users\ozgur\OneDrive\Masaüstü\Apartman Yönetim Sistemi\Apartman Yonetim Sistemi\WindowsFormsApp1\bin\Debug\ayss.mdb
+C:\Users\ozgur\Desktop\Apartman Yönetim Sistemi\Apartman Yonetim Sistemi\WindowsFormsApp1\bin\Debug\ayss.mdb
+C:\Users\ozgur\Desktop\Apartman Yönetim Sistemi\Apartman Yonetim Sistemi\WindowsFormsApp1\bin\Debug\Apartman Yonetim Sistemi.exe.config
+C:\Users\ozgur\Desktop\Apartman Yönetim Sistemi\Apartman Yonetim Sistemi\WindowsFormsApp1\bin\Debug\Apartman Yonetim Sistemi.exe
+C:\Users\ozgur\Desktop\Apartman Yönetim Sistemi\Apartman Yonetim Sistemi\WindowsFormsApp1\bin\Debug\Apartman Yonetim Sistemi.pdb
+C:\Users\ozgur\Desktop\Apartman Yönetim Sistemi\Apartman Yonetim Sistemi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\ozgur\Desktop\Apartman Yönetim Sistemi\Apartman Yonetim Sistemi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.adminpanel.resources
+C:\Users\ozgur\Desktop\Apartman Yönetim Sistemi\Apartman Yonetim Sistemi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.giris.resources
+C:\Users\ozgur\Desktop\Apartman Yönetim Sistemi\Apartman Yonetim Sistemi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.kullanici.resources
+C:\Users\ozgur\Desktop\Apartman Yönetim Sistemi\Apartman Yonetim Sistemi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.kullanicipaneli.resources
+C:\Users\ozgur\Desktop\Apartman Yönetim Sistemi\Apartman Yonetim Sistemi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ozgur\Desktop\Apartman Yönetim Sistemi\Apartman Yonetim Sistemi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.yonetici.resources
+C:\Users\ozgur\Desktop\Apartman Yönetim Sistemi\Apartman Yonetim Sistemi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ozgur\Desktop\Apartman Yönetim Sistemi\Apartman Yonetim Sistemi\WindowsFormsApp1\obj\Debug\Apartman Yonetim Sistemi.exe
+C:\Users\ozgur\Desktop\Apartman Yönetim Sistemi\Apartman Yonetim Sistemi\WindowsFormsApp1\obj\Debug\Apartman Yonetim Sistemi.pdb
+C:\Users\ozgur\OneDrive\Masaüstü\Ders Notları\Apartman Yönetim Sistemi\Apartman Yonetim Sistemi\WindowsFormsApp1\bin\Debug\ayss.mdb
+C:\Users\ozgur\OneDrive\Masaüstü\Ders Notları\Apartman Yönetim Sistemi\Apartman Yonetim Sistemi\WindowsFormsApp1\bin\Debug\Apartman Yonetim Sistemi.exe.config
+C:\Users\ozgur\OneDrive\Masaüstü\Ders Notları\Apartman Yönetim Sistemi\Apartman Yonetim Sistemi\WindowsFormsApp1\bin\Debug\Apartman Yonetim Sistemi.exe
+C:\Users\ozgur\OneDrive\Masaüstü\Ders Notları\Apartman Yönetim Sistemi\Apartman Yonetim Sistemi\WindowsFormsApp1\bin\Debug\Apartman Yonetim Sistemi.pdb
+C:\Users\ozgur\OneDrive\Masaüstü\Ders Notları\Apartman Yönetim Sistemi\Apartman Yonetim Sistemi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\ozgur\OneDrive\Masaüstü\Ders Notları\Apartman Yönetim Sistemi\Apartman Yonetim Sistemi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.adminpanel.resources
+C:\Users\ozgur\OneDrive\Masaüstü\Ders Notları\Apartman Yönetim Sistemi\Apartman Yonetim Sistemi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.giris.resources
+C:\Users\ozgur\OneDrive\Masaüstü\Ders Notları\Apartman Yönetim Sistemi\Apartman Yonetim Sistemi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.kullanici.resources
+C:\Users\ozgur\OneDrive\Masaüstü\Ders Notları\Apartman Yönetim Sistemi\Apartman Yonetim Sistemi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.kullanicipaneli.resources
+C:\Users\ozgur\OneDrive\Masaüstü\Ders Notları\Apartman Yönetim Sistemi\Apartman Yonetim Sistemi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ozgur\OneDrive\Masaüstü\Ders Notları\Apartman Yönetim Sistemi\Apartman Yonetim Sistemi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.yonetici.resources
+C:\Users\ozgur\OneDrive\Masaüstü\Ders Notları\Apartman Yönetim Sistemi\Apartman Yonetim Sistemi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ozgur\OneDrive\Masaüstü\Ders Notları\Apartman Yönetim Sistemi\Apartman Yonetim Sistemi\WindowsFormsApp1\obj\Debug\Apartman Yonetim Sistemi.exe
+C:\Users\ozgur\OneDrive\Masaüstü\Ders Notları\Apartman Yönetim Sistemi\Apartman Yonetim Sistemi\WindowsFormsApp1\obj\Debug\Apartman Yonetim Sistemi.pdb
